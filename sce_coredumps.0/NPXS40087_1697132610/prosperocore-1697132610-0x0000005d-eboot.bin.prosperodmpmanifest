@@ -1,0 +1,6 @@
+segmentVersion: 0x01
+formatVersion: 0x10
+numberOfFiles: 1
+file1.name: prosperocore-1697132610-0x0000005d-eboot.bin.prosperodmp
+file1.attribute: 0x00
+file1.size: 1106897
